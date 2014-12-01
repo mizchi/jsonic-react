@@ -2,6 +2,10 @@
 
 Deadly simple, react virtual dom generator by pure json format.
 
+```
+npm install jsonic-react --save
+```
+
 ## What's this?
 
 Just json converter to virtual dom.
